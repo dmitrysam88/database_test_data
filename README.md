@@ -12,3 +12,7 @@ You can use it for learning.
 - MySQL
 
 `mysql -p <your database name> <mysql_test.sql`
+
+- Postgres
+
+`psql -U admin -d postgres -f postgres_test.sql`
