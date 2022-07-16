@@ -15,4 +15,4 @@ You can use it for learning.
 
 - Postgres
 
-`psql -U admin -d postgres -f postgres_test.sql`
+`psql -U <your user> -d <your database name> -f postgres_test.sql`
