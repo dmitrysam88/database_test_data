@@ -9,6 +9,6 @@ You can use it for learning.
 
 `sqlite3 <your database file> < test_sqlite.sql`
 
--MySQL
+- MySQL
 
 `mysql -p <your database name> <mysql_test.sql`
